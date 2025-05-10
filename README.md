@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Python libraries**
 
-- 🌱 I’m currently learning **Java Collections**
+- 🌱 I’m currently learning **React.js  Node.js Django**
 
-- 💬 Ask me about **React,gsap,Node.js,Java**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **rdsharma841@gmail.com**
 
