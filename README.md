@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Python libraries**
+- 🔭 I’m currently working on **Java Collections**
 
 - 🌱 I’m currently learning **React.js  Node.js Django**
 
