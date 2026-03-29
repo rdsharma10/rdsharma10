@@ -3,10 +3,8 @@
 
 
 
-- 🔭 I’m currently working on **Java Collections**
-
+- 🔭 I’m currently working on **Salesforce and Google Cloud Console **
 - 🌱 I’m currently learning **React.js  Node.js Django**
-
 - 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **rdsharma841@gmail.com**
