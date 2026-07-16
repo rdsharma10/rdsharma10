@@ -27,10 +27,9 @@
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Flows](https://img.shields.io/badge/Flows-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Integration](https://img.shields.io/badge/Integration-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![FLOWS](https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![INTEGRATION](https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-
 ![SOQL](https://img.shields.io/badge/SOQL%2FSOSL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 **Backend & Cloud**
