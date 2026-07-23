@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=650&lines=Salesforce+Developer;Node.js+%7C+Twilio+%7C+Gemini+AI;Building+AI-Powered+CRM+Automations;Turning+Inboxes+into+Qualified+Leads" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=rdsharma10&color=4F46E5&style=flat-square&label=Profile+Views" alt="profile views"/>
 
 </div>
 
