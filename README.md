@@ -265,10 +265,8 @@ pm2 logs index
 Configured per domain in `index.js`:
 
 ```js
-const DOMAIN_DEFAULT_OWNER = {
-  'hicglobalsolutions.com': 'sumit@hicglobalsolutions.com',
-  'taskoptimizerapp.com':   'testuser1234678@gmail.com',
-};
+const DEFAULT_GROUP_OWNER = 'piyush@hicglobalsolutions.com';   // Sales Admin
+
 ```
 
 Any recipient address on one of these domains that is not a known internal user is treated as a group/shared mailbox, and gets the domain's default owner assigned until an internal user replies.
