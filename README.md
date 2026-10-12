@@ -1,100 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Hi%20There,%20I'm%20Rishi%20Sharma%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Salesforce%20Developer%20%7C%20Node.js%20%7C%20AI-Powered%20CRM%20Integrations&descAlignY=55&descSize=16" width="100%"/>
+# Rishi Sharma
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=650&lines=Salesforce+Developer;Node.js+%7C+Twilio+%7C+Gemini+AI;Building+AI-Powered+CRM+Automations;Turning+Inboxes+into+Qualified+Leads" alt="Typing SVG" />
+**Salesforce Developer | Node.js Integrations | AI-Powered CRM Automation**
 
+I build the layer between Salesforce and the outside world: telephony, email, and AI, wired into CRM workflows that run in real time.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-sharma-51024a334/)
+[![Email](https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=gmail&logoColor=white)](mailto:rdsharma841@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1F2937?style=flat-square&logo=leetcode&logoColor=FFA116)](https://www.leetcode.com/rishi_sharma7)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1F2937?style=flat-square&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/2101640100215_cs)
 
 </div>
 
-<br/>
+---
 
-### 👨‍💻 About Me
+## About
 
-- 🔭 **Currently building:** an AI-powered email intelligence pipeline (Node.js + Gmail Pub/Sub + Google Gemini) that classifies inbound leads in real time and routes them straight into Salesforce
-- 🧩 **Also shipping:** a two-way Twilio ↔ Salesforce telephony layer — call routing, task automation, and SMS tracking with a custom LWC dashboard
-- 🌱 **Currently exploring:** Google Cloud Platform and advanced Lightning Web Component patterns
-- 💬 **Ask me about:** Apex, LWC, REST API integrations, or wiring AI into CRM workflows
-- 📫 **Reach me:** rdsharma841@gmail.com
-- ⚡ **Fun fact:** I debug in Hinglish and ship in Apex 😄
+Salesforce developer focused on integrations and automation. My day-to-day work spans Apex, Lightning Web Components, and Node.js services that connect Salesforce to third-party APIs such as Twilio, Gmail, and Google Gemini.
 
-<br/>
+- Currently building AI-driven lead intelligence and telephony systems on top of Salesforce
+- Exploring Google Cloud Platform and advanced Lightning Web Component patterns
+- Open to conversations about Apex, LWC, REST integrations, and applying AI to CRM workflows
 
-### 🛠️ Tech Stack
+---
 
-**Salesforce Ecosystem**
+## Featured Work
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Java](https://img.shields.io/badge/Java-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+### AI Email Intelligence Pipeline
 
-![Flows](https://img.shields.io/badge/Flows-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Integration](https://img.shields.io/badge/Integration-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![SOQL](https://img.shields.io/badge/SOQL%2FSOSL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+Real-time lead qualification from inbound email.
 
-**Backend & Cloud**
+- Gmail Pub/Sub push notifications trigger a Node.js service
+- Google Gemini classifies each message and extracts lead intent
+- Qualified leads are created and routed directly in Salesforce
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+`Node.js` `Express` `Gmail API` `Google Pub/Sub` `Google Gemini` `Salesforce REST API`
 
-**AI & Automation**
+### Twilio and Salesforce Telephony Layer
 
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+Two-way voice and SMS integration inside Salesforce.
 
-**Frontend**
+- Call routing and automatic task creation for inbound and outbound calls
+- SMS tracking tied to Salesforce records
+- Custom LWC dashboard for call and message activity
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+`Twilio` `Apex` `Lightning Web Components` `Node.js` `PM2` `DigitalOcean`
 
-**Databases**
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+## Technical Stack
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<br/>
-
-### 📊 GitHub Stats
+| Area | Technologies |
+|------|--------------|
+| **Salesforce** | Apex, Lightning Web Components, Flows, SOQL / SOSL, REST and Platform integrations |
+| **Backend** | Node.js, Express.js, REST APIs, Twilio, PM2 |
+| **Cloud** | Google Cloud Platform, DigitalOcean |
+| **AI** | Google Gemini, applied machine learning |
+| **Frontend** | JavaScript, React, HTML5, CSS3 |
+| **Databases** | MySQL, MongoDB, Oracle |
+| **Tooling** | Git, GitHub, VS Code, Postman |
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rdsharma10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=rdsharma10&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdsharma10&layout=compact&theme=tokyonight&hide_border=true" width="55%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rdsharma10&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
+![Salesforce](https://img.shields.io/badge/Salesforce-1F2937?style=flat-square&logo=salesforce&logoColor=00A1E0)
+![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-1F2937?style=flat-square&logo=express&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-1F2937?style=flat-square&logo=twilio&logoColor=F22F46)
+![Gemini](https://img.shields.io/badge/Gemini-1F2937?style=flat-square&logo=googlegemini&logoColor=8E75B2)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-1F2937?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-1F2937?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-1F2937?style=flat-square&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-1F2937?style=flat-square&logo=postman&logoColor=FF6C37)
 
 </div>
 
-<br/>
+---
 
-### 🤝 Connect With Me
+## GitHub Activity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rishi-sharma-51024a334/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/2101640100215_cs" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.leetcode.com/rishi_sharma7" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="mailto:rdsharma841@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=rdsharma10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdsharma10&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" width="100%"/>
+## Contact
+
+For collaboration or opportunities, reach me at [rdsharma841@gmail.com](mailto:rdsharma841@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rishi-sharma-51024a334/).
