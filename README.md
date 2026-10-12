@@ -47,7 +47,7 @@ Two-way voice and SMS integration inside Salesforce.
 - SMS tracking tied to Salesforce records
 - Custom LWC dashboard for call and message activity
 
-`Twilio` `Apex` `Lightning Web Components` `Node.js` `PM2` `DigitalOcean`
+`Twilio` `Apex` `Lightning Web Components`  `PM2` `DigitalOcean`
 
 ---
 
